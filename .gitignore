@@ -1,0 +1,5 @@
+*.[oa]
+*~
+conf.txt
+/build
+/cache
